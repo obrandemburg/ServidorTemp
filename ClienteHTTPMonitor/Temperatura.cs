@@ -13,7 +13,7 @@ namespace ClienteHTTPMonitor
 
         public override string ToString()
         {
-            return $"Unidade: {unidade} || Valor: {valor}\n";
+            return $"Unidade: {unidade} || Valor: {valor}";
         }
     }
 
