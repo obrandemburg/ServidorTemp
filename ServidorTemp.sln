@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteHTTPMonitor", "..\ClienteHTTPMonitor\ClienteHTTPMonitor.csproj", "{3A33D163-B82D-1DBD-2245-43BB303CA08D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteHTTPMonitor", "ClienteHTTPMonitor\ClienteHTTPMonitor.csproj", "{C2F1C7A5-C11C-9B69-6E03-A28066BEF7BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{EB99C967-945D-EEB9-A2C4-E170C601D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB99C967-945D-EEB9-A2C4-E170C601D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB99C967-945D-EEB9-A2C4-E170C601D766}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A33D163-B82D-1DBD-2245-43BB303CA08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A33D163-B82D-1DBD-2245-43BB303CA08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A33D163-B82D-1DBD-2245-43BB303CA08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A33D163-B82D-1DBD-2245-43BB303CA08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F1C7A5-C11C-9B69-6E03-A28066BEF7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F1C7A5-C11C-9B69-6E03-A28066BEF7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F1C7A5-C11C-9B69-6E03-A28066BEF7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F1C7A5-C11C-9B69-6E03-A28066BEF7BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
